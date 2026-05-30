@@ -1,0 +1,45 @@
+{"timestamp":"00:00:03.805","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:12.098","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:00:14.148","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:14.255","source":"Browser","level":"WARN","message":"Image with src \"http://localhost:3000/vercel.svg\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \"auto\"' or 'height: \"auto\"' to maintain the aspect ratio."}
+{"timestamp":"00:00:14.277","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"http://localhost:3000/vercel.svg\\\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \\\"auto\\\"' or 'height: \\\"auto\\\"' to maintain the aspect ratio.\\u001b[39m\""}
+{"timestamp":"00:00:14.278","source":"Browser","level":"WARN","message":"\u001b[33mImage with src \"http://localhost:3000/vercel.svg\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \"auto\"' or 'height: \"auto\"' to maintain the aspect ratio.\u001b[39m"}
+{"timestamp":"00:00:25.198","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:25.524","source":"Browser","level":"WARN","message":"Image with src \"http://localhost:3000/vercel.svg\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \"auto\"' or 'height: \"auto\"' to maintain the aspect ratio."}
+{"timestamp":"00:00:25.526","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"http://localhost:3000/vercel.svg\\\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \\\"auto\\\"' or 'height: \\\"auto\\\"' to maintain the aspect ratio.\\u001b[39m\""}
+{"timestamp":"00:00:25.526","source":"Browser","level":"WARN","message":"\u001b[33mImage with src \"http://localhost:3000/vercel.svg\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \"auto\"' or 'height: \"auto\"' to maintain the aspect ratio.\u001b[39m"}
+{"timestamp":"01:33:20.636","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"01:34:24.374","source":"Browser","level":"WARN","message":"Image with src \"http://localhost:3000/vercel.svg\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \"auto\"' or 'height: \"auto\"' to maintain the aspect ratio."}
+{"timestamp":"01:34:24.666","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"01:34:24.698","source":"Browser","level":"WARN","message":"Image with src \"http://localhost:3000/vercel.svg\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \"auto\"' or 'height: \"auto\"' to maintain the aspect ratio."}
+{"timestamp":"01:34:24.703","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"http://localhost:3000/vercel.svg\\\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \\\"auto\\\"' or 'height: \\\"auto\\\"' to maintain the aspect ratio.\\u001b[39m\""}
+{"timestamp":"01:34:24.703","source":"Browser","level":"WARN","message":"\u001b[33mImage with src \"http://localhost:3000/vercel.svg\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \"auto\"' or 'height: \"auto\"' to maintain the aspect ratio.\u001b[39m"}
+{"timestamp":"01:35:04.363","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"http://localhost:3000/vercel.svg\\\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \\\"auto\\\"' or 'height: \\\"auto\\\"' to maintain the aspect ratio.\\u001b[39m\""}
+{"timestamp":"01:35:04.363","source":"Browser","level":"WARN","message":"\u001b[33mImage with src \"http://localhost:3000/vercel.svg\" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: \"auto\"' or 'height: \"auto\"' to maintain the aspect ratio.\u001b[39m"}
+{"timestamp":"01:38:09.726","source":"Server","level":"LOG","message":"✓ Compiled in 39ms"}
+{"timestamp":"01:38:26.772","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"01:39:53.480","source":"Server","level":"LOG","message":"✓ Compiled in 37ms"}
+{"timestamp":"01:41:52.081","source":"Server","level":"LOG","message":"✓ Compiled in 38ms"}
+{"timestamp":"01:58:58.881","source":"Server","level":"LOG","message":"✓ Compiled in 105ms"}
+{"timestamp":"01:59:46.054","source":"Server","level":"LOG","message":"✓ Compiled in 94ms"}
+{"timestamp":"02:01:02.947","source":"Server","level":"LOG","message":"✓ Compiled in 85ms"}
+{"timestamp":"02:03:37.627","source":"Server","level":"LOG","message":"✓ Compiled in 60ms"}
+{"timestamp":"02:03:57.408","source":"Server","level":"LOG","message":"✓ Compiled in 124ms"}
+{"timestamp":"02:04:34.067","source":"Server","level":"LOG","message":"✓ Compiled in 82ms"}
+{"timestamp":"02:06:58.711","source":"Server","level":"LOG","message":"✓ Compiled in 75ms"}
+{"timestamp":"02:11:48.747","source":"Server","level":"LOG","message":"✓ Compiled in 92ms"}
+{"timestamp":"02:12:34.391","source":"Server","level":"LOG","message":"✓ Compiled in 122ms"}
+{"timestamp":"02:14:49.671","source":"Server","level":"LOG","message":"✓ Compiled in 95ms"}
+{"timestamp":"02:32:13.301","source":"Server","level":"LOG","message":"✓ Compiled in 137ms"}
+{"timestamp":"02:32:14.076","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"02:32:45.387","source":"Server","level":"LOG","message":"✓ Compiled in 169ms"}
+{"timestamp":"02:58:54.603","source":"Server","level":"LOG","message":"✓ Compiled in 131ms"}
+{"timestamp":"02:59:09.969","source":"Server","level":"LOG","message":"✓ Compiled in 102ms"}
+{"timestamp":"02:59:56.194","source":"Server","level":"LOG","message":"✓ Compiled in 25ms"}
+{"timestamp":"03:00:10.907","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"03:00:35.729","source":"Server","level":"LOG","message":"✓ Compiled in 72ms"}
+{"timestamp":"04:49:08.363","source":"Server","level":"LOG","message":"✓ Compiled in 112ms"}
+{"timestamp":"04:55:24.634","source":"Server","level":"LOG","message":"✓ Compiled in 122ms"}
+{"timestamp":"05:02:37.189","source":"Server","level":"LOG","message":"✓ Compiled in 128ms"}
+{"timestamp":"05:08:52.532","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"05:10:05.099","source":"Server","level":"LOG","message":"✓ Compiled in 99ms"}
